@@ -21,5 +21,6 @@ public class TestBeanFactory {
 
 		 //我自己写的代码 ，需要提交到主分支上 ，先提交到自己的分支
 		 //test1
+		 //test1 别人写的
 	  }
 }

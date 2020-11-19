@@ -10,5 +10,6 @@ public class TestBeanFactory {
 		  Object obj2=factory.getObject("obj", Object.class);
 		  System.out.println(obj1==obj2);
 		  //修改代码，添加需求
+         System.out.println("修改代码，添加需求");
 	  }
 }
